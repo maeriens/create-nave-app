@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d3a642439be53fcfe582",
-    "url": "/create-nave-app/static/css/main.af653f89.chunk.css"
+    "revision": "e3be03ee27a7404fc2da",
+    "url": "/create-nave-app/static/css/main.b98d8e92.chunk.css"
   },
   {
-    "revision": "d3a642439be53fcfe582",
-    "url": "/create-nave-app/static/js/main.79943ab7.chunk.js"
+    "revision": "e3be03ee27a7404fc2da",
+    "url": "/create-nave-app/static/js/main.452e5575.chunk.js"
   },
   {
     "revision": "545ff6645e630c231cd3",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/create-nave-app/static/media/nave.480d7203.png"
   },
   {
-    "revision": "7868634300dd4267168baa7d5fead3ee",
+    "revision": "e228e4557cd4f286908ef6213a81e662",
     "url": "/create-nave-app/index.html"
   }
 ];
