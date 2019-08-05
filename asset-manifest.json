@@ -1,14 +1,16 @@
 {
-  "main.css": "/create-nave-app/static/css/main.b98d8e92.chunk.css",
-  "main.js": "/create-nave-app/static/js/main.452e5575.chunk.js",
-  "main.js.map": "/create-nave-app/static/js/main.452e5575.chunk.js.map",
-  "runtime~main.js": "/create-nave-app/static/js/runtime~main.298a19f9.js",
-  "runtime~main.js.map": "/create-nave-app/static/js/runtime~main.298a19f9.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/create-nave-app/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/create-nave-app/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/create-nave-app/index.html",
-  "precache-manifest.c11ce142b606d03c2e99dee7f2b96adf.js": "/create-nave-app/precache-manifest.c11ce142b606d03c2e99dee7f2b96adf.js",
-  "service-worker.js": "/create-nave-app/service-worker.js",
-  "static/css/main.b98d8e92.chunk.css.map": "/create-nave-app/static/css/main.b98d8e92.chunk.css.map",
-  "static/media/nave.png": "/create-nave-app/static/media/nave.480d7203.png"
+  "files": {
+    "main.css": "/create-nave-app/static/css/main.7fc79a15.chunk.css",
+    "main.js": "/create-nave-app/static/js/main.577bd0eb.chunk.js",
+    "main.js.map": "/create-nave-app/static/js/main.577bd0eb.chunk.js.map",
+    "runtime~main.js": "/create-nave-app/static/js/runtime~main.298a19f9.js",
+    "runtime~main.js.map": "/create-nave-app/static/js/runtime~main.298a19f9.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/create-nave-app/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/create-nave-app/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/create-nave-app/index.html",
+    "precache-manifest.1f93b49dd31cec13a42aeaa52090d3af.js": "/create-nave-app/precache-manifest.1f93b49dd31cec13a42aeaa52090d3af.js",
+    "service-worker.js": "/create-nave-app/service-worker.js",
+    "static/css/main.7fc79a15.chunk.css.map": "/create-nave-app/static/css/main.7fc79a15.chunk.css.map",
+    "static/media/nave.png": "/create-nave-app/static/media/nave.480d7203.png"
+  }
 }
