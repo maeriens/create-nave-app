@@ -9,11 +9,11 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Mandale cumbia y <a 
-            class="repo" 
-            target="_blank" 
-            rel="noopener noreferrer" 
-            href="https://github.com/maeriens/create-nave-app">
+            Mandale cumbia y <a
+              className="repo"
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://github.com/maeriens/create-nave-app">
               PR al repo
             </a> y sale con fritas
           </p>
