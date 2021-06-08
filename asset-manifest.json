@@ -1,24 +1,22 @@
 {
   "files": {
-    "main.css": "/create-nave-app/static/css/main.a1a3cb8f.chunk.css",
-    "main.js": "/create-nave-app/static/js/main.a8af34a1.chunk.js",
-    "main.js.map": "/create-nave-app/static/js/main.a8af34a1.chunk.js.map",
-    "runtime-main.js": "/create-nave-app/static/js/runtime-main.fcf7dae0.js",
-    "runtime-main.js.map": "/create-nave-app/static/js/runtime-main.fcf7dae0.js.map",
-    "static/js/2.8a49957e.chunk.js": "/create-nave-app/static/js/2.8a49957e.chunk.js",
-    "static/js/2.8a49957e.chunk.js.map": "/create-nave-app/static/js/2.8a49957e.chunk.js.map",
+    "main.css": "/create-nave-app/static/css/main.24b75484.chunk.css",
+    "main.js": "/create-nave-app/static/js/main.d6abd267.chunk.js",
+    "main.js.map": "/create-nave-app/static/js/main.d6abd267.chunk.js.map",
+    "runtime-main.js": "/create-nave-app/static/js/runtime-main.0874dad1.js",
+    "runtime-main.js.map": "/create-nave-app/static/js/runtime-main.0874dad1.js.map",
+    "static/js/2.6bc94e2d.chunk.js": "/create-nave-app/static/js/2.6bc94e2d.chunk.js",
+    "static/js/2.6bc94e2d.chunk.js.map": "/create-nave-app/static/js/2.6bc94e2d.chunk.js.map",
     "index.html": "/create-nave-app/index.html",
-    "precache-manifest.884310903ea3a5f5ec02240b6cfe1974.js": "/create-nave-app/precache-manifest.884310903ea3a5f5ec02240b6cfe1974.js",
-    "service-worker.js": "/create-nave-app/service-worker.js",
-    "static/css/main.a1a3cb8f.chunk.css.map": "/create-nave-app/static/css/main.a1a3cb8f.chunk.css.map",
-    "static/js/2.8a49957e.chunk.js.LICENSE.txt": "/create-nave-app/static/js/2.8a49957e.chunk.js.LICENSE.txt",
-    "static/media/gabi.png": "/create-nave-app/static/media/gabi.09c248c5.png",
-    "static/media/nave.png": "/create-nave-app/static/media/nave.480d7203.png"
+    "static/css/main.24b75484.chunk.css.map": "/create-nave-app/static/css/main.24b75484.chunk.css.map",
+    "static/js/2.6bc94e2d.chunk.js.LICENSE.txt": "/create-nave-app/static/js/2.6bc94e2d.chunk.js.LICENSE.txt",
+    "static/media/gabi.1a81bf98.png": "/create-nave-app/static/media/gabi.1a81bf98.png",
+    "static/media/nave.4a254750.png": "/create-nave-app/static/media/nave.4a254750.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcf7dae0.js",
-    "static/js/2.8a49957e.chunk.js",
-    "static/css/main.a1a3cb8f.chunk.css",
-    "static/js/main.a8af34a1.chunk.js"
+    "static/js/runtime-main.0874dad1.js",
+    "static/js/2.6bc94e2d.chunk.js",
+    "static/css/main.24b75484.chunk.css",
+    "static/js/main.d6abd267.chunk.js"
   ]
 }
